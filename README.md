@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Vitali
 - 👀 I’m interested in Web development and Embedded software.
 - 🌱 I’m currently learning C,C++,Java,C# and System design.
-- 💞️ I’m looking to collaborate on any projects on embedded and web development.
+- 💞️ I’m looking to collaborate on any projects on Embedded and Web development.
 - 📫 You can reach me on here or Linkin
 
 <!---

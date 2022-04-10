@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vitali
-- I’m interested in Web development and Embedded software.
+- I’m interested in App,Web development and Embedded software.
 - I work with C#,C,C++,System design and ARM chip .
 
 <!---

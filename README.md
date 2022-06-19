@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vitali
-- I’m interested in Web development,System design and cloud overlayer.
+- I’m interested in Web development,System design and Cloud overlayer.
 - I work with .Net,C# and Linux.
 
 <!---

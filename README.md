@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vitali
-- I’m interested in Web development,System design and Embedded software.
-- I work with .Net,C#,C,C++ and ARM chip .
+- I’m interested in Web development,System design and cloud overlayer.
+- I work with .Net,C#.
 
 <!---
 Vitali-UK/Vitali-UK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
